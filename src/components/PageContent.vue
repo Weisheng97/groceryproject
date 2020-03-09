@@ -20,7 +20,9 @@ export default {
                     {name:'Jam',image:'/assets/jam.jfif',show:true},
                     {name:'CornFlakes',image:'/assets/cornflakes.jfif',show:true},
                     {name:'Milk',image:'/assets/milk.jfif',show:true},
-                    {name:'Juice',image:'/assets/juice.jfif',show:true}
+                    {name:'Juice',image:'/assets/juice.jfif',show:true},
+                    {name:'Olives',image:'./assets/olive.jpg',show:true},
+                    {name:'BlackBeans',image:'./assets/black-beans.jpg',show:true}
                     ]
         }
   },
